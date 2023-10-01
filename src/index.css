@@ -23,5 +23,5 @@ code {
 @font-face {
   font-family: 'KanitBold';
   src: local('KanitBold'),
-    url('./fonts/Kanit-Bold.ttf ') format('truetype'),
+    url('./assets/fonts/Kanit-Bold.ttf ') format('truetype'),
 }
