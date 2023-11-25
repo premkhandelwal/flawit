@@ -1,0 +1,14 @@
+.about {
+  padding-top: 3rem !important;
+  width: 100%;
+  margin-left: 100px;
+  text-align: start;
+}
+
+.aboutHeader {
+  list-style-type: none;
+  marker: none; 
+  font-size: 23px;
+  font-weight: 700;
+  color: rgb(91, 187, 251);
+}

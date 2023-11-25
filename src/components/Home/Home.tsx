@@ -9,7 +9,7 @@ function Home() {
         <div className="container">
             <div className="bg-image"></div>
             <div className="bg-text">
-            <Navbar />
+                <Navbar/>
                 <div className="text-content">
                     <div className="small-title">{title}</div>
                     <div className="large-title">{title}</div>

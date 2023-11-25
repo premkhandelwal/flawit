@@ -1,0 +1,16 @@
+.colored-box {
+    background-color: #3498db; /* Set your desired background color */
+    padding: 4px 20px 20px 20px;
+    width: 15px;
+    height: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .icon {
+    font-size: 36px;
+    color: #fff; /* Set your desired icon color */
+  }
