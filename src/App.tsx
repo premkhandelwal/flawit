@@ -1,11 +1,16 @@
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Home from './components/Home/Home';
+import About from './components/About/about';
+import Features from './components/Features/Features';
 import './index.css';
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      {/* <Home /> */}
+      <About />
+      <Features />
     </div>
   );
 }
